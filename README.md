@@ -20,5 +20,5 @@
 
 
 ## 📫 Connect With Me
-- LinkedIn: [Add Link]
-- Email: yourmail@example.com
+- LinkedIn: https://www.linkedin.com/in/yashuk23
+- Email: yashkanawade66@gmail.com
