@@ -2,7 +2,7 @@
 🎓 Computer Engineering Student  
 💻 Skilled in Java, Node.js, Express.js  
 ⚙️ Backend Development | REST APIs | Problem Solving  
-📚 Practicing DSA and preparing for placements  
+💻Looking for Opportunities  
 
 ## 💻 Tech Stack:
 
