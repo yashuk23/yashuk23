@@ -1,8 +1,7 @@
 # Hi 👋 I'm Yash
 🎓 Computer Engineering Student  
 💻 Skilled in Java, Node.js, Express.js  
-⚙️ Backend Development | REST APIs | Problem Solving  
-💻Looking for Opportunities  
+⚙️ Backend Development | REST APIs | Problem Solving .  
 
 ## 💻 Tech Stack:
 
