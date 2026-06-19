@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yash%20Kanawade&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Engineer%20%7C%20Backend%20Developer%20%7C%20Java%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🚀+Building+Scalable+Backend+Systems;💡+Solving+200%2B+Coding+Problems;🎯+Seeking+Internship+Opportunities)](https://git.io/typing-svg)
-
 </div>
 
 ---
@@ -23,12 +21,6 @@ public class YashKanawade {
         "REST API Design",
         "Full Stack Development",
         "Problem Solving"
-    };
-
-    String[] currentlyLearning = {
-        "System Design",
-        "Advanced DSA",
-        "Spring Boot"
     };
 
     public String motto() {
@@ -100,8 +92,6 @@ public class YashKanawade {
 | 🎯 Milestone | 🔢 Count |
 |:---:|:---:|
 | 💡 Coding Problems Solved | **200+** |
-| 🌐 Technologies Known | **10+** |
-| 📁 Projects Built | Growing... |
 
 </div>
 
@@ -117,12 +107,4 @@ public class YashKanawade {
 
 </div>
 
----
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=yashuk23&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
