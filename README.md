@@ -80,11 +80,7 @@ public class YashKanawade {
 
 ---
 
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashuk23&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" alt="GitHub Trophies"/>
-</div>
+## 🏆 Achievements 
 
 <div align="center">
 
