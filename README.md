@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yash%20Kanawade&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Engineer%20%7C%20Backend%20Development%20%7C%20Java%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
-
-</div>
 
 ---
 
