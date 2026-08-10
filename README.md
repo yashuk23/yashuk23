@@ -11,15 +11,11 @@ public class YashKanawade {
     String location = "Maharashtra, India";
 
     String[] interests = {
-        "Backend Engineering",
+        "Java Programming",
         "REST API Design",
         "Full Stack Development",
         "Problem Solving"
     };
-
-    public String motto() {
-        return "Code. Learn. Build. Repeat. 🚀";
-    }
 }
 ```
 
